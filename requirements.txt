@@ -1,0 +1,10 @@
+pandas
+keras
+numpy
+pandas
+Rtree
+scikit-learn
+scipy
+seaborn
+tensorflow
+graphviz
